@@ -25,7 +25,7 @@ Declaration in HTML 4.01:\
 Declaration in XHTML 1.1:\
 **<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">**
 
-*!DOCTYPE is not case sensitive
+* !DOCTYPE is not case sensitive
 
 **<head>** - Inside head section are declared char set of the page; styling; scripts;
   
