@@ -103,6 +103,8 @@ $primary_3: #878f99;
 }
 ```
 
+<image src="img/bootstrap.png" width="100px">
+
 ## Style - Bootstrap
 https://getbootstrap.com/ \
 Bootstrap is the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
