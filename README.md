@@ -1,3 +1,7 @@
+<p align="center">
+  <image src="img/34022590.jpg" style="border-radius:50%">
+</p>
+
 <h1 align="center">
   HTML - Hyper Text Markup Language Webpage
 </h1>
