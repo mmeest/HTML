@@ -1,7 +1,7 @@
 # HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
 Hyper Text Markup Language Webpage
 
-<image src="img/html.png" widht="100px">
+<image src="img/html.png" width="100px">
 
 ## Minimum HTML
 Minimum code for HTML page
@@ -41,7 +41,7 @@ https://www.w3schools.com/charsets/
 
 **<title>My Page</title>** - Page title, displayed on head of browser tab.
   
-<image src="img/css.png" widht="100px">
+<image src="img/css.png" width="100px">
 
 ## Style - CSS ('.css')
 There are 3 ways to add styling to the page:
@@ -119,7 +119,7 @@ Bootstrap is the world’s most popular front-end open source toolkit, featuring
 https://www.typescriptlang.org/ \
 TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 
-<image src="img/jquery.png" widht="100px">
+<image src="img/jquery.png" width="100px">
 
 ## Script - JQuery('.js')
 https://jquery.com/ \
