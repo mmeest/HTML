@@ -1,13 +1,26 @@
-<p align="center">
-  # HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
-</p>
+<h1 align="center">
+  HTML - Hyper Text Markup Language Webpage
+</h1>
+
+<h3 align="center">
+	<a target="_blank" href="https://sass-lang.com/">Sass</a>
+	<span> · </span>
+  <a target="_blank" href="https://getbootstrap.com/">Bootstrap</a>
+	<span> · </span>
+  <a target="_blank" href="https://www.javascript.com/">JavaScript</a>
+	<span> · </span>
+  <a target="_blank" href="https://www.typescriptlang.org/">TypeScript</a>
+	<span> · </span>
+  <a target="_blank" href="https://jquery.com/">JQuery</a>
+	<span> · </span>
+  <a target="_blank" href="https://www.php.net/">PHP</a>
+</h3>
 
 
 
 <image src="img/html.png" width="100px">
 
-## Minimum HTML
-HTML - Hyper Text Markup Language Webpage \
+## Minimum HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
 Minimum code for HTML page
 
 ```
