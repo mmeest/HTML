@@ -1,6 +1,6 @@
 <p align="center">
   <image src="img/34022590.jpg" width="300px" style="border-radius:50%">
-</p>
+</p style="border-radius:50%">
 
 <h1 align="center">
   HTML - Hyper Text Markup Language Webpage
