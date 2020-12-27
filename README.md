@@ -1,9 +1,13 @@
-# HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
-Hyper Text Markup Language Webpage
+<p align="center">
+  # HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
+</p>
+
+
 
 <image src="img/html.png" width="100px">
 
 ## Minimum HTML
+HTML - Hyper Text Markup Language Webpage \
 Minimum code for HTML page
 
 ```
