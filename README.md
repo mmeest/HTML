@@ -1,6 +1,8 @@
 # HTML ('.htm', '.html', '.xhtml', '.dhtml', '.phtml')
 Hyper Text Markup Language Webpage
 
+<image src="img/html.png" widht="100px">
+
 ## Minimum HTML
 Minimum code for HTML page
 
