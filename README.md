@@ -39,6 +39,8 @@ https://www.w3schools.com/charsets/
 
 **<title>My Page</title>** - Page title, displayed on head of browser tab.
   
+<image src="img/css.png" widht="100px">
+
 ## Style - CSS ('.css')
 There are 3 ways to add styling to the page:
 
@@ -71,7 +73,10 @@ There are 3 ways to add styling to the page:
 </head>
 ```
 
+<image src="img/sass.png" width="100px">
+
 ## Style - Sass ('.scss')
+https://sass-lang.com/ \
 **Sass** - **S**yntactically **A**wesome **S**tyle**s**heet\
 Sass is CSS styling extention. While CSS is interpeted straight in the browser. Sass needs pre-processor.
 
@@ -100,11 +105,17 @@ $primary_3: #878f99;
 https://getbootstrap.com/ \
 Bootstrap is the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
 
+<image src="img/js.jpg" width="100px">
+
 ## Script - JavaScript('.js')
+
+<image src="img/ts.png" width="100px">
 
 ## Script - TypeScript('.ts', '.tsx')
 https://www.typescriptlang.org/ \
 TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
+
+<image src="img/jquery.png" widht="100px">
 
 ## Script - JQuery('.js')
 https://jquery.com/ \
@@ -124,6 +135,8 @@ $( "#button-container button" ).on( "click", function( event ) {
   hiddenBox.show();
 });
 ```
+
+<image src="img/php.png" width="100px">
 
 ## PHP ('.php')
 https://www.php.net/ \
