@@ -135,8 +135,10 @@ Bootstrap is the world’s most popular front-end open source toolkit, featuring
 2. Extract downloaded zip file.
 3. Copy extracted folders('css' and 'js') into HTML project folder.
 4. Add links to your HTML file header:
+´´´
 	<link href="css/bootstrap.min.css" rel="stylesheet"/>
 	<script src="js/bootstrap.min.js"></script>
+´´´	
 
 <image src="img/js.jpg" width="100px">
 
