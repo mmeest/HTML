@@ -175,7 +175,7 @@ $( "#button-container button" ).on( "click", function( event ) {
 
 ## PHP ('.php')
 https://www.php.net/ \
-PHP is server side scripting language.
+PHP is server side scripting language. While HTML, CSS and JavaScript can run directly from web browser PHP needs to be interpreted by the PHP interpeter program, called php. Interpeter makes PHP scripts understandable to web browsers. 
 
 Example:
 ```
